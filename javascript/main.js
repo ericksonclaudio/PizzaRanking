@@ -28,7 +28,7 @@ links.forEach(function (link) {
 
         setTimeout(function () {
             location.href = "/";
-        }, 600);
+        }, 1000);
 
         return false;
 
